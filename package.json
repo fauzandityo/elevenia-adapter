@@ -1,0 +1,19 @@
+{
+  "name": "elevenia-adapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "idxmain.js",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "pg": "^7.18.2",
+    "superagent": "^5.2.2",
+    "util": "^0.12.1",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fauzan Adityo",
+  "license": "ISC"
+}
